@@ -22,9 +22,6 @@
 ![Zustand](https://img.shields.io/badge/Zustand-brown?style=for-the-badge&logo=zustand&logoColor=white)
 ![NX](https://img.shields.io/badge/NX-darkblue?style=for-the-badge&logo=nx&logoColor=white)]
 
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)]
-
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-%230769AD.svg?style=for-the-badge&logo=php&logoColor=white)
 ![GO](https://img.shields.io/badge/GO-skyblue.svg?style=for-the-badge&logo=go&logoColor=white)]
@@ -33,6 +30,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-white.svg?style=for-the-badge&logo=mysql&logoColor=orange) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%230769AD.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
 
+
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)]
+---
+[![](https://visitcount.itsvg.in/api?id=leky90&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **leky90/leky90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
