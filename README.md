@@ -24,7 +24,7 @@ My fanpage: [LDK.technology](https://www.facebook.com/LDK.technology/)
 ![GO](https://img.shields.io/badge/GO-skyblue.svg?style=for-the-badge&logo=go&logoColor=white)]
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-white.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-white.svg?style=for-the-badge&logo=mysql&logoColor=orange) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%230769AD.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
 
 <!--
