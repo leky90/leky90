@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [Treehouse Finance](https://www.treehouse.finance/)
+
 ### 📫 How to reach me: 
 
 - My website: [ldktech.com](https://ldktech.com)
