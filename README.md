@@ -1,10 +1,12 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [Treehouse Finance](https://www.treehouse.finance/)
+- 🗺️ My portfolio — **twelve years rendered as 3D terrain**: [personal-profile.ldktech.com](https://personal-profile.ldktech.com)
 
 ### 📫 How to reach me: 
 
 - My website: [ldktech.com](https://ldktech.com)
+- My portfolio: [personal-profile.ldktech.com](https://personal-profile.ldktech.com)
 - My fanpage: [LDK.technology](https://www.facebook.com/LDK.technology/)
 
 ### 💻 Tech Stack:
