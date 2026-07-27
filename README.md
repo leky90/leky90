@@ -5,7 +5,7 @@
 
 ### 📫 How to reach me: 
 
-- My website: [ldktech.com](https://ldktech.com)
+- My company: [LDK Tech](https://ldktech.com) — Website, App & Zalo Mini App for SMEs
 - My portfolio: [personal-profile.ldktech.com](https://personal-profile.ldktech.com)
 - My fanpage: [LDK.technology](https://www.facebook.com/LDK.technology/)
 
