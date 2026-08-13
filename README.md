@@ -3,6 +3,34 @@
 - 🔭 I’m currently working on [Treehouse Finance](https://www.treehouse.finance/)
 - 🗺️ My portfolio — **twelve years rendered as 3D terrain**: [personal-profile.ldktech.com](https://personal-profile.ldktech.com)
 
+### 🚀 Live products & showcases
+
+| Project | What it is | Live |
+|---|---|---|
+| LDKTech Solutions | Websites, apps and Zalo Mini Apps for Vietnamese SMEs | [ldktech.com](https://ldktech.com) |
+| LDKTech Showcases | Selected production work and project case studies | [showcases.ldktech.com](https://showcases.ldktech.com) |
+| LDKTech Demo Library | Interactive product, operations and service demos | [demo.ldktech.com](https://demo.ldktech.com) |
+| Lưu Giữ Kỉ Niệm | QR-first collaborative event albums for photos, videos and wishes | [luugiukiniem.com](https://luugiukiniem.com) |
+| VISCERA — Anatomy Atlas | Static-first 3D anatomy atlas with provenance and review gates | [anatomy-atlas.ldktech.com](https://anatomy-atlas.ldktech.com) |
+| AnatoViet | Vietnamese 3D anatomy atlas for medical students and self-learners | [anatomy-lab.ldktech.com](https://anatomy-lab.ldktech.com) |
+| Prompt Atlas | Vietnamese-first visual reference for 90 image-generation styles | [Live](https://prompt-atlas.ldktech.com) · [Source](https://github.com/leky90/promptatlas) |
+| LDKTech Game Studio | Bilingual game studio portfolio and playable concept work | [ldktechstudio.com](https://ldktechstudio.com/vi) |
+| KILNHEART | Single-file Canvas 2D arena roguelite | [Play](https://kilnheart-game.ldktech.com) · [Source](https://github.com/leky90/kilnheart) |
+| Ten Years of Terrain | 3D engineering portfolio and interactive concept lab | [Live](https://personal-profile.ldktech.com) · [Source](https://github.com/leky90/personal-portfolio) |
+
+<details>
+<summary><strong>More deployed experiments</strong></summary>
+
+- [Nearby Msg](https://nearby-group.ldktech.com) — location-based, offline-first community chat ([source](https://github.com/leky90/nearby_msg)).
+- [Online Wedding Card](https://leky90.github.io/wedding-card/) — configurable React wedding invitation and RSVP demo ([source](https://github.com/leky90/wedding-card)).
+- [Pokémon Battle](https://pokemon-game.ldktech.com) — real-time React and Go game experiment ([source](https://github.com/leky90/game-pikachu-v2)).
+- [Find the Number](https://leky90.github.io/game-find-number/) — browser game built in an Nx workspace ([source](https://github.com/leky90/game-find-number)).
+- [Canvas 2D](https://leky90.github.io/game-canvas-2d/) — browser graphics experiment ([source](https://github.com/leky90/game-canvas-2d)).
+- [Classic Pokémon Game](https://leky90.github.io/game-pikachu/) — React and TypeScript mini-game ([source](https://github.com/leky90/game-pikachu)).
+- [Wieck HTML](https://leky90.github.io/wieck-html/) — static web experiment ([source](https://github.com/leky90/wieck-html)).
+
+</details>
+
 ### 📫 How to reach me: 
 
 - My company: [LDK Tech](https://ldktech.com) — Website, App & Zalo Mini App for SMEs
@@ -52,5 +80,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
