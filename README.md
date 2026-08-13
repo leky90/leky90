@@ -3,7 +3,6 @@
 **AI Automation & Agent Systems Engineer · Software Engineering Lead**
 
 - 🤖 I turn AI tools into reliable production systems: agent workflows, internal copilots, RAG and business automation.
-- 🔭 At [Treehouse](https://www.treehouse.finance/), I work as a Senior Software Engineer and Lead Frontend Engineer, leading an eight-engineer frontend team.
 - 🗺️ My portfolio — **twelve years rendered as 3D terrain**: [personal-profile.ldktech.com](https://personal-profile.ldktech.com)
 - 💼 More about my work: [LinkedIn](https://www.linkedin.com/in/le-dinh-ky/)
 
