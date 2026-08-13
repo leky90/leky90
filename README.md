@@ -3,7 +3,7 @@
 **AI Automation & Agent Systems Engineer · Software Engineering Lead**
 
 - 🤖 I turn AI tools into reliable production systems: agent workflows, internal copilots, RAG and business automation.
-- 🗺️ My portfolio — **twelve years rendered as 3D terrain**: [personal-profile.ldktech.com](https://personal-profile.ldktech.com)
+- 🗺️ My portfolio — **selected live products and project case studies**: [showcases.ldktech.com](https://showcases.ldktech.com)
 - 💼 More about my work: [LinkedIn](https://www.linkedin.com/in/le-dinh-ky/)
 
 ### 🚀 Live products & showcases
@@ -37,7 +37,7 @@
 ### 📫 How to reach me: 
 
 - My company: [LDK Tech](https://ldktech.com) — Website, App & Zalo Mini App for SMEs
-- My portfolio: [personal-profile.ldktech.com](https://personal-profile.ldktech.com)
+- My portfolio: [showcases.ldktech.com](https://showcases.ldktech.com)
 - My fanpage: [LDK.technology](https://www.facebook.com/LDK.technology/)
 
 ### 💻 Tech Stack:
