@@ -19,7 +19,6 @@
 | Prompt Atlas | Vietnamese-first visual reference for 90 image-generation styles | [Live](https://prompt-atlas.ldktech.com) · [Source](https://github.com/leky90/promptatlas) |
 | LDKTech Game Studio | Bilingual game studio portfolio and playable concept work | [ldktechstudio.com](https://ldktechstudio.com/vi) |
 | KILNHEART | Single-file Canvas 2D arena roguelite | [Play](https://kilnheart-game.ldktech.com) · [Source](https://github.com/leky90/kilnheart) |
-| Ten Years of Terrain | 3D engineering portfolio and interactive concept lab | [Live](https://personal-profile.ldktech.com) · [Source](https://github.com/leky90/personal-portfolio) |
 
 <details>
 <summary><strong>More deployed experiments</strong></summary>
